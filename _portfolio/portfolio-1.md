@@ -1,7 +1,9 @@
 ---
 title: "Flapping wing robot"
 
+<p align = "center">
 <iframe width="366" height="651" src="https://www.youtube.com/embed/NRsVKKc83Hs" title="Kestrel test flight ( the better one )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 
