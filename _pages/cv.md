@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Mechanical Engineering and Automation, South China University of Technology, Guangdong, China , 2014
+* M.S. in Mechanical Engineering, Virginia Polytechnic Institute and State University, 2016 - 2017
+* Ph.D in Mechanical Engineering, Brown University, 2019 - 2023 (expected)
 
 Work experience
 ======
