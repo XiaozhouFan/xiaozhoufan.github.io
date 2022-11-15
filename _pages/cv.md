@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Aug. 2022 - Now: Innovation Fellow
-  * Brown Technology Innovations Office, (https://www.brown.edu/research/conducting-research-brown/tech-innovations/brown-technology-innovations-staff)
+  * [Brown Technology Innovations Office](https://www.brown.edu/research/conducting-research-brown/tech-innovations/brown-technology-innovations-staff)
   * Duties included: Assess the commercial potential of early-stage technologies, evaluate industry interest, develop marketing strategies, and compose technical reports and pitch documents.
   * Supervisor: Mr. Brian Demers
 
