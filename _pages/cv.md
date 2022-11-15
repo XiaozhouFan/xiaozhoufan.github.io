@@ -23,7 +23,7 @@ Work experience
   * Supervisor: Mr. Brian Demers
 
 * Spring 2019 - Now: Research Assistant
-  * Breuer Lab (https://sites.brown.edu/breuerlab/), in collaboration with Aeromechanics & Evolutionary Morphology Lab (https://www.brown.edu/Departments/EEB/EML/)
+  * [Breuer Lab](https://sites.brown.edu/breuerlab/), in collaboration with [Aeromechanics & Evolutionary Morphology Lab](https://www.brown.edu/Departments/EEB/EML/)
   * Duties included: 
        * Developed theoretical dynamical models with wing-body interaction, inertial and aerodynamic effect to predict the motion of flapping wing flight and energetics. 
        * Investigated the energetics of animal flight under different flight speeds, featuring the important effect of wing camber in performance.
@@ -31,20 +31,20 @@ Work experience
   * Supervisor: Prof. Kenneth Breuer (kbreuer@brown.edu)
 
 * Jan. 2016 - Dec.2017: Research Assistant
-  * HPCFD Lab (https://hpcfd.me.vt.edu/)
+  * [HPCFD Lab](https://hpcfd.me.vt.edu/)
   * Duties included: 
        * Devised an algorithm, and ported this into the in-house N-S incompressible solver GenIDLEST, such that the bat wing at each discretized time was represented as a thin surface in the immersed boundary method (IBM) framework.
        * Devised a mathematical formulation that decomposed the highly articulated bat wing kinematics into five canonical descriptors (flapping, stroke-plane deviation, twisting, chord- and span-wise cambering), and performed CFD simulations (LES) on systemically simplified kinematics and analyzed the flow field.
   * Supervisor: Prof. Danesh Tafti (dtafti@exchange.vt.edu)
 
 * May. 2016– Sept. 2016, Research Assistant
-  *  VT-SDU lab (https://www.nature.com/nature-index/institution-outputs/china/shandong-university-virginia-tech-international-laboratory/5d678d6547484108b33eb9ac)
+  *  [VT-SDU lab](https://www.nature.com/nature-index/institution-outputs/china/shandong-university-virginia-tech-international-laboratory/5d678d6547484108b33eb9ac)
   *  Duty included: Participation in the construction of a flight tunnel and motion capturing experiment of bats flight.
   *  Supervisor: Prof. Rolf Muller (rolf.mueller@vt.edu) 
 
 * Dec. 2011–Nov. 2013, National Undergraduate Training Programs for Innovation and Entrepreneurship, China.
   * Duty included: Designed a flapping wing mechanism that mimicked the birds’ or bats’ folding of wings during the upstroke, and completed its mathematical modelling and preliminary efficiency analysis.
-  * Supervisor: Prof. Xianmin Zhang (zhangxm@scut.edu.cn), https://scholar.google.com/citations?user=x0cieSsAAAAJ&hl=en
+  * Supervisor: [Prof. Xianmin Zhang](https://scholar.google.com/citations?user=x0cieSsAAAAJ&hl=en) (zhangxm@scut.edu.cn), 
   
 Honors, awards and scholarship
 ======
