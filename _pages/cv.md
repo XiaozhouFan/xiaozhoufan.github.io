@@ -46,28 +46,32 @@ Work experience
   * Duty included: Designed a flapping wing mechanism that mimicked the birds’ or bats’ folding of wings during the upstroke, and completed its mathematical modelling and preliminary efficiency analysis.
   * Supervisor: Prof. Xianmin Zhang (zhangxm@scut.edu.cn), https://scholar.google.com/citations?user=x0cieSsAAAAJ&hl=en
   
-Skills
+Honors, awards and scholarship
 ======
-* Software: AutoCAD, Soildworks, Matlab, C/C++, Visual Basic, Ansys Fluent, Python, Linux bash script, MS Office Suite, Adobe Illustrator
+* 2021		Simon Ostrach Ph.D. ’50 Endowed Fellowship.
+* 2017 – 2018	Ingersoll-Rand Fellowship, Virginia Tech
+* 2018    China Scholarship Council, Full Scholarship Support (stipend + tuition).
+* 2012 – 2013	Second Place Scholarship (Top 7 in class annual evaluation)
+* 2013 		Second Prize, School Challenge Cup						      
+* 2013 		First Prize, Provincial Mechanical Innovative Design Competition			
+* 2010 – 2011 	National Scholarship (Top 1 in class in annual evaluation)
+* 2011 		Second Prize, National Machine Drawing and CAD Design Competition. 
 
+Teaching
+======
+* 2020  ENGN0810, Teaching Assistant, Fluid Mechanics, With Prof. Thomas Powers, and Prof. Roberto Zenit.
+* 2020  ENGN1340, Teaching Assistant, Water Supply and Treatment Systems - Technology and Sustainability, With Dr. Indrek Kulaots.
+* 2019  CEEN0926, Teaching Assistant, Fluid Mechanics through Hovercraft Physics, with Dr. Yunxing Su
+
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
