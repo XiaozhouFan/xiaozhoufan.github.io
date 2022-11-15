@@ -29,15 +29,26 @@ Work experience
        * Investigated the energetics of animal flight under different flight speeds, featuring the important effect of wing camber in performance.
        * Designed and fabricated robotic flapping wing platform to study unsteady aerodynamic phenomenon, which translates to efficient, quite drone with large payload capability.
   * Supervisor: Prof. Kenneth Breuer (kbreuer@brown.edu)
+
+* Jan. 2016 - Dec.2017: Research Assistant
+  * HPCFD Lab (https://hpcfd.me.vt.edu/)
+  * Duties included: 
+       * Devised an algorithm, and ported this into the in-house N-S incompressible solver GenIDLEST, such that the bat wing at each discretized time was represented as a thin surface in the immersed boundary method (IBM) framework.
+       * Devised a mathematical formulation that decomposed the highly articulated bat wing kinematics into five canonical descriptors (flapping, stroke-plane deviation, twisting, chord- and span-wise cambering), and performed CFD simulations (LES) on systemically simplified kinematics and analyzed the flow field.
+  * Supervisor: Prof. Danesh Tafti (dtafti@exchange.vt.edu)
+
+* May. 2016– Sept. 2016, Research Assistant
+  *  VT-SDU lab (https://www.nature.com/nature-index/institution-outputs/china/shandong-university-virginia-tech-international-laboratory/5d678d6547484108b33eb9ac)
+  *  Duty included: Participation in the construction of a flight tunnel and motion capturing experiment of bats flight.
+  *  Supervisor: Prof. Rolf Muller (rolf.mueller@vt.edu) 
+
+* Dec. 2011–Nov. 2013, National Undergraduate Training Programs for Innovation and Entrepreneurship, China.
+  * Duty included: Designed a flapping wing mechanism that mimicked the birds’ or bats’ folding of wings during the upstroke, and completed its mathematical modelling and preliminary efficiency analysis.
+  * Supervisor: Prof. Xianmin Zhang (zhangxm@scut.edu.cn), https://scholar.google.com/citations?user=x0cieSsAAAAJ&hl=en
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software: AutoCAD, Soildworks, Matlab, C/C++, Visual Basic, Ansys Fluent, Python, Linux bash script, MS Office Suite, Adobe Illustrator
 
 Publications
 ======
