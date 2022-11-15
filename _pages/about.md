@@ -46,20 +46,19 @@ without compromising power economy, may prove effective in maneuver or acrobatic
 
 <h1>Flapping wing robot Kestrel </h1>
 
-        The plan of the ornithopter, called kestrel, was patented by an inventor called Andrew Kinkade, in the 2001. 
-        I built it as a hobby.
-        It weighs around 430 grams, and mounts a BLDC motor that drives the wing flapping up and down via a four-bar linkage mechanism.
-        There are two servos that controls the tail to pitch and roll
+  The plan of the ornithopter, called kestrel, was patented by an inventor called Andrew Kinkade, in the 2001. 
+  I built it as a hobby.
+  It weighs around 430 grams, and mounts a BLDC motor that drives the wing flapping up and down via a four-bar linkage mechanism.
+  There are two servos that controls the tail to pitch and roll
 
-        This video was taken on August, 25th, 2018, in front of a lawn of the stadium in Sichuan University, China
-        In this video, right after launching, Kestrel started to descend, then I immediately increased the throttle, which effectively increased the flapping frequency.
-        It started to ascend, albeit slowly.
+  This video was taken on August, 25th, 2018, in front of a lawn of the stadium in Sichuan University, China
+  In this video, right after launching, Kestrel started to descend, then I immediately increased the throttle, which effectively increased the flapping frequency.
+  It started to ascend, albeit slowly.
 
-        Then, I steered it to the right by controling the tail surface to roll to right. 
-        Towards the end of the video, the carbon rod snapped from the shoulder joint, potentially due to siginificant shear force at the base of the wing root.
+  Then, I steered it to the right by controling the tail surface to roll to right. 
+  Towards the end of the video, the carbon rod snapped from the shoulder joint, potentially due to siginificant shear force at the base of the wing root.
 
 
-        <!-- Kestrel video -->
         <iframe       
                 src="https://www.youtube.com/embed/NRsVKKc83Hs" 
                 title="Kestrel test flight" 
@@ -72,7 +71,6 @@ without compromising power economy, may prove effective in maneuver or acrobatic
                        picture-in-picture" 
                 allowfullscreen>
         </iframe>
-        <!-- Kestrel video -->
 
 
 <h1> Computational fluid dynamics on flapping flight </h1>
