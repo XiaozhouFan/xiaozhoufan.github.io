@@ -63,9 +63,10 @@ Teaching
 * 2020  ENGN1340, Teaching Assistant, Water Supply and Treatment Systems - Technology and Sustainability, With Dr. Indrek Kulaots.
 * 2019  CEEN0926, Teaching Assistant, Fluid Mechanics through Hovercraft Physics, with Dr. Yunxing Su
 
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+<  <ul>{% for post in site.teaching %}>
+<    {% include archive-single-cv.html %}>
+<  {% endfor %}</ul>>
   
 Publications
 ======
