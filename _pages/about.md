@@ -9,6 +9,84 @@ redirect_from:
 ---
 
 
+<h1> Upstroke wing clapping in bats and bat-inspired robots improves both lift generation and power economy (Under review) </h1>
+
+Wing articulation is critical for efficient flight of birds and bats-sized animals. 
+Inspired by the flight of Cynopterus brachyotis, 
+We built a two-degrees-of-freedom flapping wing platform with variable wing fold capability, 
+which also claps its wings to produce air jet for more lift, 
+as its counterpart in nature would do. 
+Independently, We used quasi-steady modeling, 
+force/power measurement and PIV experiment in a wind tunnel to understand the St = 0.2 - 0.4, 
+range of relevance for swimming and flying animals. 
+We found that the both lift, power and its economy all increase with more pronounced wing fold, 
+indicating wing fold is efficient kinematic candidate to consider when more lift ( or payload ) is needed. 
+Moreover, the optimal power economy decreases as St increases,
+suggesting a need to alter the magnitude of wing fold as flight speed changes,
+which provides guideline for future flapping wing robot design.
+In addition, the clap of wings, as a result of large wing fold angles,
+yield a positive lift peak whose magnitude matches with that generated during downstroke,
+without compromising power economy, may prove effective in maneuver or acrobatic flight where an instantaneous force burst is needed.
+
+<iframe 
+        src="https://www.youtube.com/embed/I1HGdiYmNOQ" 
+        title="Flapparoo Visualization" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+<iframe 
+        src="https://www.youtube.com/embed/Uhpv9bkkclw" 
+        title="Flapparoo Slow Motion in Wind Tunnel" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+
+
+<h1>Flapping wing robot Kestrel </h1>
+
+        The plan of the ornithopter, called kestrel, was patented by an inventor called Andrew Kinkade, in the 2001. 
+        I built it as a hobby.
+        It weighs around 430 grams, and mounts a BLDC motor that drives the wing flapping up and down via a four-bar linkage mechanism.
+        There are two servos that controls the tail to pitch and roll
+
+        This video was taken on August, 25th, 2018, in front of a lawn of the stadium in Sichuan University, China
+        In this video, right after launching, Kestrel started to descend, then I immediately increased the throttle, which effectively increased the flapping frequency.
+        It started to ascend, albeit slowly.
+
+        Then, I steered it to the right by controling the tail surface to roll to right. 
+        Towards the end of the video, the carbon rod snapped from the shoulder joint, potentially due to siginificant shear force at the base of the wing root.
+
+
+        <!-- Kestrel video -->
+        <iframe       
+                src="https://www.youtube.com/embed/NRsVKKc83Hs" 
+                title="Kestrel test flight" 
+                frameborder="0" 
+                allow="accelerometer;  
+                       autoplay; 
+                       clipboard-write; 
+                       encrypted-media; 
+                       gyroscope; 
+                       picture-in-picture" 
+                allowfullscreen>
+        </iframe>
+        <!-- Kestrel video -->
+
+
+<h1> Computational fluid dynamics on flapping flight </h1>
+
+The kinematics of hipposiderid bats (Hipposideros pratti) in straight and level flight has been deconstructed into a series of modes using proper orthogonal decomposition, to determine the relative importance of each mode in the overall force dynamics.
+
+
+<iframe 
+        src="https://www.youtube.com/embed/iJbCfhohoUc" 
+        title="LES simulation of a straight flying bat, Hipposideros Pratti" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
 
 
 
