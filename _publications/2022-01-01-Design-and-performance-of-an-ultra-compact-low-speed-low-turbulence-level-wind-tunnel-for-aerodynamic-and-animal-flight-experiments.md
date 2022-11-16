@@ -6,4 +6,4 @@ date: 2022-01-01
 venue: 'Experiments in Fluids'
 citation: ' Kenneth Breuer,  Mark Drela,  Xiaozhou Fan,  Matteo Di, &quot;Design and performance of an ultra-compact, low-speed, low turbulence level, wind tunnel for aerodynamic and animal flight experiments.&quot; Experiments in Fluids, 2022.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Design+and+performance+of+an+ultra+compact,+low+speed,+low+turbulence+level,+wind+tunnel+for+aerodynamic+and+animal+flight+experiments){:target="_blank"} for full citation
+[Access paper here](http://xiaozhoufan.github.io/files/2022_J_Breuer_Design_and_performance_of_an_ultra_compact_low_speed_low_turbulence_level_wind_tunnel.pdf){:target="_blank"}
