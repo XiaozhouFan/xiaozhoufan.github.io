@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<h1> Upstroke wing clapping in bats and bat-inspired robots improves both lift generation and power economy (Under review) </h1>
+<h2> Upstroke wing clapping in bats and bat-inspired robots improves both lift generation and power economy (Under review) </h2>
 
 Wing articulation is critical for efficient flight of birds and bats-sized animals. 
 Inspired by the flight of Cynopterus brachyotis, 
@@ -44,7 +44,7 @@ without compromising power economy, may prove effective in maneuver or acrobatic
 
 
 
-<h1>Flapping wing robot Kestrel </h1>
+<h2>Flapping wing robot Kestrel </h2>
 
 The plan of the ornithopter, called kestrel, was patented by an inventor called Andrew Kinkade, in the 2001. 
 I built it as a hobby.
@@ -72,7 +72,7 @@ Towards the end of the video, the carbon rod snapped from the shoulder joint, po
 </iframe>
 
 
-<h1> Computational fluid dynamics on flapping flight </h1>
+<h2> Computational fluid dynamics on flapping flight </h2>
 
 The kinematics of hipposiderid bats (Hipposideros pratti) in straight and level flight has been deconstructed into a series of modes using proper orthogonal decomposition, to determine the relative importance of each mode in the overall force dynamics.
 
