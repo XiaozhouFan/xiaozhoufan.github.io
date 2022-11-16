@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaozhou Fan's personal website"
+title                    : "Xiaozhou Fan's Cove"
 title_separator          : "-"
 name                     : &name "Xiaozhou Fan"
 description              : &description "4-th year PhD candidate at Brown University"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Xiaozhou Fan"
   avatar           : "Xiaozhou Fan.jpg"
-  bio              : "4-th year PhD student at Brown University, expert in flapping wing aerodynamics/robotics"
+  bio              : "4-th year PhD candidate at Brown University, in flapping wing aerodynamics/robotics"
   location         : "Providence, Brown"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qMPGu8AAAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Xiaozhou-Fan-2"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XiaozhouFan"
+  #github           : "XiaozhouFan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "xiaozhoufan"
-  orcid            : "http://orcid.org/0000-0002-6841-6606"
+  #orcid            : "http://orcid.org/0000-0002-6841-6606"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
@@ -215,8 +215,8 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: false
-      share: false
+      author_profile: true
+      share: true
       comments: true
   # _publications
   - scope:
