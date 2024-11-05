@@ -94,11 +94,11 @@ redirect_from:
 - **XZ Fan**, K Breuer "3D Reduced-order modeling of flapping flight with heavy and highly articulated wings". *APS DFD* (2020).  
 - **XZ Fan**, P Windes, DK Tafti, S Sekhar, M Bender, A Kurdila, R Muller "Proper orthogonal decomposition and aerodynamic simulation of an insectivorous bat in straight and level flight". *AIAA SciTech Forum* (2018).
 
----
-
 ## Patent  
 
 - **XZ Fan** and K Breuer. "A bio-inspired flapping wing/fin robotic platform". U.S. Non-Provisional Patent Application No. 18/513,245 and 18/514,625. (Under review) (2024).  
+
+---
 
 ## Education  
 
