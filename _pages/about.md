@@ -23,10 +23,6 @@ At 𝑆𝑡 = 0.3 − 0.4, it features two maxima – one at medium folding ampl
 folding. These findings illuminate two strategies available to flapping wing animals and robots – symmetry-breaking
 lift augmentation and appendage-based jet propulsion.
 (This work is in revision as requested by Journal of Royal Society Interface.)
-
-Subsequently, we found this jet can be directed by controlling the wing twist at the moment of clapping, which leads to greatly enhanced cycle-averaged thrust, especially at high 𝑆𝑡 or low flight speeds. Additional benefits of more thrust and less negative lift are gained during upstroke using wing twist. Remarkably, less total actuating force, or less total power, is required during upstroke with wing twist. These findings emphasize the benefits of critical wing articulation for the future flapping wing/fin robots and for an accurate test platform to study natural flapping wing flight or underwater vehicles.
-(This work is presented at IROS 2024, with the my talk recording below)
-
 <iframe 
         src="https://www.youtube.com/embed/I1HGdiYmNOQ" 
         title="Flapparoo Visualization" frameborder="0" 
@@ -34,6 +30,8 @@ Subsequently, we found this jet can be directed by controlling the wing twist at
         allowfullscreen>
 </iframe>
 
+Subsequently, we found this jet can be directed by controlling the wing twist at the moment of clapping, which leads to greatly enhanced cycle-averaged thrust, especially at high 𝑆𝑡 or low flight speeds. Additional benefits of more thrust and less negative lift are gained during upstroke using wing twist. Remarkably, less total actuating force, or less total power, is required during upstroke with wing twist. These findings emphasize the benefits of critical wing articulation for the future flapping wing/fin robots and for an accurate test platform to study natural flapping wing flight or underwater vehicles.
+(This work is presented at IROS 2024, with the my talk recording below)
 <iframe 
         src="https://www.youtube.com/embed/MIdfsCfT98Y?si=Sw4RMePMmbL9MeDi" 
         title="IROS 2024 talk -- bio-inspired jet propulsion" frameborder="0" 
