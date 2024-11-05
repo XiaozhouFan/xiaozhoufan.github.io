@@ -9,20 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.Eng. in Mechanical Engineering and Automation, South China University of Technology, Guangdong, China , 2014
-* M.S. in Mechanical Engineering, Virginia Polytechnic Institute and State University, 2016 - 2017
-* Ph.D in Mechanical Engineering, Brown University, 2019 - 2023 (expected)
-
 Work experience
 ======
-* Aug. 2022 - Now: Innovation Fellow
+
+Postdoctoral Scholar Research Associate, Caltech Sept. 2023 – Now
+Advisor: Prof. Morteza Gharib (mgharib@caltech.edu); https://www.gharib.caltech.edu/
+* Sparse and dynamic flow sensing and flight control using reinforcement learning, aiming to develop safer and more robust fixed-wing drones in extreme wind gust.
+* Organizing bi-weekly AI journal club.
+
+* Aug. 2022 - Aug. 2023: Innovation Fellow
   * [Brown Technology Innovations Office](https://www.brown.edu/research/conducting-research-brown/tech-innovations/brown-technology-innovations-staff)
   * Duties included: Assess the commercial potential of early-stage technologies, evaluate industry interest, develop marketing strategies, and compose technical reports and pitch documents.
   * Supervisor: Mr. Brian Demers
 
-* Spring 2019 - Now: Research Assistant
+* Jan. 2019 - Aug. : Research Assistant
   * [Breuer Lab](https://sites.brown.edu/breuerlab/), in collaboration with [Aeromechanics & Evolutionary Morphology Lab](https://www.brown.edu/Departments/EEB/EML/)
   * Duties included: 
        * Developed theoretical dynamical models with wing-body interaction, inertial and aerodynamic effect to predict the motion of flapping wing flight and energetics. 
@@ -44,7 +44,13 @@ Work experience
 
 * Dec. 2011–Nov. 2013, National Undergraduate Training Programs for Innovation and Entrepreneurship, China.
   * Duty included: Designed a flapping wing mechanism that mimicked the birds’ or bats’ folding of wings during the upstroke, and completed its mathematical modelling and preliminary efficiency analysis.
-  * Supervisor: [Prof. Xianmin Zhang](https://scholar.google.com/citations?user=x0cieSsAAAAJ&hl=en) (zhangxm@scut.edu.cn), 
+  * Supervisor: [Prof. Xianmin Zhang](https://scholar.google.com/citations?user=x0cieSsAAAAJ&hl=en) (zhangxm@scut.edu.cn),
+
+Education
+======
+* B.Eng. in Mechanical Engineering and Automation, South China University of Technology, Guangdong, China , 2014
+* M.S. in Mechanical Engineering, Virginia Polytechnic Institute and State University, 2016 - 2017
+* Ph.D in Mechanical Engineering, Brown University, 2019 - 2023
   
 Honors, awards and scholarship
 ======
