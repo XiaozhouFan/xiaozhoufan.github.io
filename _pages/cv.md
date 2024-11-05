@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
+
 # Xiaozhou (Michael) Fan  
 **Mechanical/Aerospace Engineering**  
 
@@ -24,39 +25,38 @@ redirect_from:
 ### Postdoctoral Scholar Research Associate, Caltech  
 *Sept. 2023 – Present*  
 **Advisor**: Prof. Morteza Gharib ([mgharib@caltech.edu](mailto:mgharib@caltech.edu); [website](https://www.gharib.caltech.edu/))  
-- Sparse and dynamic flow sensing and flight control using reinforcement learning to develop safer and more robust fixed-wing drones in extreme wind gusts.
+- Sparse and dynamic flow sensing and flight control using reinforcement learning, aiming to develop safer and more robust fixed-wing drones in extreme wind gusts.
 - Organizing bi-weekly AI journal club.
 
 ### Fellow, Brown Technology Innovations  
 *Aug. 2022 – Aug. 2023*  
 **Advisor**: Mr. Brian Demers  
-- Assessed commercial potential of early-stage technologies, evaluated industry interest, developed marketing strategies, and composed technical reports and pitch documents.
+- Assessed the commercial potential of early-stage technologies, evaluated industry interest, developed marketing strategies, and composed technical reports and pitch documents.
 
 ### Graduate Research Assistant, Breuer Lab  
 *Jan. 2019 – Aug. 2023*  
 **Advisor**: Prof. Kenneth Breuer ([kbreuer@brown.edu](mailto:kbreuer@brown.edu); [website](https://sites.brown.edu/breuerlab/))  
-- Developed theoretical dynamical models with wing-body interaction to predict motion and energetics of flapping wing flight.
-- Investigated energetics of animal flight across different speeds, emphasizing the impact of wing camber.
-- Designed a robotic flapping wing platform to study unsteady aerodynamic phenomena.
+- Developed theoretical dynamical models with wing-body interaction, inertial and aerodynamic effects to predict motion of flapping wing flight and energetics.
+- Investigated the energetics of animal flight under different flight speeds, highlighting the impact of wing camber on performance.
+- Designed and fabricated a robotic flapping wing platform to study unsteady aerodynamic phenomena, contributing to efficient, quiet drones with large payload capability.
 
 ### Graduate Research Assistant, High Performance Computational Fluid Dynamics Lab  
 *Jan. 2016 – March 2018*  
 **Advisor**: Prof. Danesh Tafti (dtafti@exchange.vt.edu)  
-- Devised an algorithm to represent bat wing kinematics in the immersed boundary method (IBM) framework.
-- Decomposed bat wing kinematics into descriptors, performed CFD simulations, and analyzed flow fields.
+- Devised an algorithm, integrating it into the in-house N-S incompressible solver GenIDLEST, representing bat wing kinematics as a thin surface in the IBM framework.
+- Developed a mathematical formulation decomposing articulated bat wing kinematics into five canonical descriptors (flapping, stroke-plane deviation, twisting, chord- and span-wise cambering), performed CFD simulations (LES), and analyzed flow fields.
 
 ### Graduate Research Assistant, SDU - Virginia Tech International Laboratory  
 *May 2016 – Aug. 2016*  
 **Advisor**: Prof. Rolf Muller (rolf.mueller@vt.edu)  
-- Constructed a flight tunnel and participated in bat flight motion capture experiments.
+- Constructed a flight tunnel and participated in motion capture experiments with bats in flight.
 
 ### National Undergraduate Training Programs for Innovation and Entrepreneurship  
 *Dec. 2011 – Nov. 2013*  
 **Advisor**: Prof. Xianmin Zhang (zhangxm@scut.edu.cn)  
-- Designed a flapping wing mechanism mimicking bird or bat wing folding during upstroke, developed its mathematical model and efficiency analysis.
+- Designed a flapping wing mechanism mimicking bird or bat wing folding during upstroke, completed its mathematical modeling and preliminary efficiency analysis.
 
 ---
-
 ## Publications  
 
 ### Peer-Reviewed Journal  
@@ -65,6 +65,9 @@ redirect_from:
 - K Breuer, M Drela, **XZ Fan**, M Luca, "Design and performance of an ultra‑compact, low‑speed, low turbulence wind tunnel for aerodynamic and animal flight experiments". *Experiments in Fluids* (2022).  
 - **XZ Fan**, S Swartz, and K Breuer, "Power Requirements for Flapping Flight With Heavy and Highly Articulated Wings". *Journal of The Royal Society Interface* (2022).  
 - **XZ Fan** and K Breuer, "Low-Order Modeling of Flapping Flight with Highly Articulated, Cambered, Heavy Wings". *AIAA Journal* (2021).  
+- S Sekhar, P Windes, **XZ Fan**, DK Tafti "Canonical description of wing kinematics and dynamics for a straight flying insectivorous bat (Hipposideros pratti)". *PLOS One* (2019).  
+- M Bender, L Tian, **XZ Fan**, A Kurdila, R Muller "Spatially Recursive Estimation and Gaussian Process Dynamic Models of Bat Flapping Flight". *Nonlinear Dynamics* (2019).  
+- P Windes, **XZ Fan**, M Bender, DK Tafti, R Müller, "A computational investigation of lift generation and power expenditure of Pratt’s roundleaf bat (Hipposideros pratti) in forward flight". *PLOS One* (2018).  
 
 ### Journals in Preparation  
 
@@ -75,6 +78,19 @@ redirect_from:
 
 - **XZ Fan**, A Gehrke, K Breuer, "Wing twist and folding work in synergy to propel flapping wing animals and robots". *IEEE/RSJ International Conference on Intelligent Robots and Systems* (IROS) (2024).  
 - H Vejdani, **XZ Fan**, K Breuer, "Robustness analysis of minimally-actuated flapping wing systems due to aerodynamic modeling uncertainty". *IEEE/ASME International Conference on Advanced Intelligent Mechatronics* (AIM) (2022).  
+- **XZ Fan**, K Breuer, H Vejdani, "Wing Fold and Twist Greatly Improves Flight Efficiency for Bat-Scale Flapping Wing Robots." *IEEE/RSJ International Conference on Intelligent Robots and Systems* (IROS) (2021).  
+
+### Conference Presentation  
+
+- **XZ Fan**, A Gehrke, A Sollenberger, K Breuer "Wing folding and twisting synergistically boost lift generation for flapping wing flight". *APS DFD* (2023).  
+- C Urban, **XZ Fan**, S Swarrup, CR Guo, D Marella, R Irani, S Swartz, K Breuer "Stability derivatives of a flapping wing-body system". *APS DFD* (2022).  
+- **XZ Fan**, A Bortoni, S Hao, A Sollenberger, S Swartz, K Breuer "Bat-inspired wing clapping during upstroke improves lift and power economy". *APS DFD* (2022).  
+
+---
+
+## Patent  
+
+- **XZ Fan** and K Breuer. "A bio-inspired flapping wing/fin robotic platform". U.S. Non-Provisional Patent Application No. 18/513,245 and 18/514,625. (Under review) (2024).  
 
 ---
 
@@ -90,6 +106,7 @@ redirect_from:
 
 - **South China University of Technology (SCUT)**, Guangdong, China - Bachelor of Engineering in Mechanical Engineering and Automation (Jul. 2014)
 
+
 ---
 
 ## Teaching and Mentoring Experience  
@@ -101,9 +118,13 @@ redirect_from:
 - **Teaching Assistant** at AI Bootcamp, Caltech (June 2024)  
   Advisor: Dr. Reza Sadri  
   - Organized course slides, hands-on sessions for reinforcement learning.  
+  - Presented ongoing work on implementing AI in flow sensing and flight control.
 
 - **Teaching Assistant**, ENGN 0810 Fluid Mechanics (Aug. 2020 – Dec. 2020)  
   Advisor: Prof. Roberto Zenit and Prof. Thomas Powers  
+
+- **Teaching Assistant**, ENGN 1340 Water Supply and Treatment Systems (Jan. 2020 – Jun. 2020)  
+  Advisor: Dr. Indrek Kulatos  
 
 ---
 
@@ -112,6 +133,7 @@ redirect_from:
 - 2024: Research featured in French documentary “Le rêve de Léonard, les secrets du vol dans la nature”  
   Robotic platform, Flapperoo, featured in August issue of *National Geographic* magazine.  
   - Invited talks at Pasadena City College PiDay and Pasadena PAL for local high school students.
+- 2019 Summer: TA for Brown University Summer Pre-college Program for high school students.
 
 ---
 
@@ -130,3 +152,4 @@ redirect_from:
 - **2024**: Co-guest editor for special issue of peer-reviewed journal *Machines*  
 - **2022 – 2024**: Reviewer for journals: *PNAS, Science Robotics, Physics Review Fluids, Cell iScience, Integrative and Comparative Biology, Flow, Turbulence and Combustion*  
   Reviewer for international conferences: *IROS, ICRA*
+
