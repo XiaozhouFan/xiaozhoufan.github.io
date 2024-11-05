@@ -13,7 +13,7 @@ redirect_from:
 
 Wing articulation is critical for efficient flight of bird- and bat-sized animals. Inspired by the flight of Cynopterus
 brachyotis, the lesser short-nosed fruit bat, we built a three-degree-of-freedom flapping wing platform with variable
-wing folding capability. In late upstroke, the wings ”clap” and produce an air jet that significantly increases lift
+wing folding and twisting capability. In late upstroke, the wings ”clap” and produce an air jet that significantly increases lift
 production, with a positive peak matched to that produced in downstroke. We used multiple
 approaches – quasi-steady modeling, direct force/power measurement, and PIV experiments in a wind tunnel –
 to understand critical aspects of lift/power variation in relation to wing folding magnitude over Strouhal numbers
