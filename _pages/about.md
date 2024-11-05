@@ -36,12 +36,11 @@ without compromising power economy, may prove effective in maneuver or acrobatic
 </iframe>
 
 <iframe 
-        src="https://www.youtube.com/embed/Uhpv9bkkclw" 
-        title="Flapparoo Slow Motion in Wind Tunnel" frameborder="0" 
+        src="https://youtu.be/MIdfsCfT98Y" 
+        title="Bio-inspired jet propulsion, talk at IROS 2024" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen>
 </iframe>
-
 
 
 <h2>Flapping wing robot Kestrel </h2>
