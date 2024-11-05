@@ -36,9 +36,9 @@ without compromising power economy, may prove effective in maneuver or acrobatic
 </iframe>
 
 <iframe 
-        src="https://youtu.be/MIdfsCfT98Y" 
-        title="Bio-inspired jet propulsion, talk at IROS 2024" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        src="https://www.youtube.com/embed/MIdfsCfT98Y?si=Sw4RMePMmbL9MeDi" 
+        title="IROS 2024 talk -- bio-inspired jet propulsion" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; 
         allowfullscreen>
 </iframe>
 
