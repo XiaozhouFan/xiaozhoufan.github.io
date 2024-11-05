@@ -56,7 +56,9 @@ redirect_from:
 **Advisor**: Prof. Xianmin Zhang (zhangxm@scut.edu.cn)  
 - Designed a flapping wing mechanism mimicking bird or bat wing folding during upstroke, completed its mathematical modeling and preliminary efficiency analysis.
 
+
 ---
+
 ## Publications  
 
 ### Peer-Reviewed Journal  
@@ -65,8 +67,8 @@ redirect_from:
 - K Breuer, M Drela, **XZ Fan**, M Luca, "Design and performance of an ultra‑compact, low‑speed, low turbulence wind tunnel for aerodynamic and animal flight experiments". *Experiments in Fluids* (2022).  
 - **XZ Fan**, S Swartz, and K Breuer, "Power Requirements for Flapping Flight With Heavy and Highly Articulated Wings". *Journal of The Royal Society Interface* (2022).  
 - **XZ Fan** and K Breuer, "Low-Order Modeling of Flapping Flight with Highly Articulated, Cambered, Heavy Wings". *AIAA Journal* (2021).  
-- S Sekhar, P Windes, **XZ Fan**, DK Tafti "Canonical description of wing kinematics and dynamics for a straight flying insectivorous bat (Hipposideros pratti)". *PLOS One* (2019).  
-- M Bender, L Tian, **XZ Fan**, A Kurdila, R Muller "Spatially Recursive Estimation and Gaussian Process Dynamic Models of Bat Flapping Flight". *Nonlinear Dynamics* (2019).  
+- S Sekhar, P Windes, **XZ Fan**, DK Tafti, "Canonical description of wing kinematics and dynamics for a straight flying insectivorous bat (Hipposideros pratti)". *PLOS One* (2019).  
+- M Bender, L Tian, **XZ Fan**, A Kurdila, R Muller, "Spatially Recursive Estimation and Gaussian Process Dynamic Models of Bat Flapping Flight". *Nonlinear Dynamics* (2019).  
 - P Windes, **XZ Fan**, M Bender, DK Tafti, R Müller, "A computational investigation of lift generation and power expenditure of Pratt’s roundleaf bat (Hipposideros pratti) in forward flight". *PLOS One* (2018).  
 
 ### Journals in Preparation  
@@ -85,14 +87,18 @@ redirect_from:
 - **XZ Fan**, A Gehrke, A Sollenberger, K Breuer "Wing folding and twisting synergistically boost lift generation for flapping wing flight". *APS DFD* (2023).  
 - C Urban, **XZ Fan**, S Swarrup, CR Guo, D Marella, R Irani, S Swartz, K Breuer "Stability derivatives of a flapping wing-body system". *APS DFD* (2022).  
 - **XZ Fan**, A Bortoni, S Hao, A Sollenberger, S Swartz, K Breuer "Bat-inspired wing clapping during upstroke improves lift and power economy". *APS DFD* (2022).  
+- **XZ Fan**, S Swartz, K Breuer "Power requirements for flapping flight with heavy and highly articulated wings". *Integrative and Comparative Biology* (2021).  
+- **XZ Fan**, S Heye-Smith, A Sollenberger, K Breuer "A bio-inspired flapping wing robot with twist and fold capability". *APS DFD* (2021).  
+- **XZ Fan**, K Breuer "Reduced-order modeling of a bat flying with heavy and highly articulated flapping wing". *AIAA SciTech Forum* (2021).  
+- **XZ Fan**, S Swartz, K Breuer "A reduced order computational model to simulate the dynamics of maneuvering flight". *Integrative and Comparative Biology* (2020).  
+- **XZ Fan**, K Breuer "3D Reduced-order modeling of flapping flight with heavy and highly articulated wings". *APS DFD* (2020).  
+- **XZ Fan**, P Windes, DK Tafti, S Sekhar, M Bender, A Kurdila, R Muller "Proper orthogonal decomposition and aerodynamic simulation of an insectivorous bat in straight and level flight". *AIAA SciTech Forum* (2018).
 
 ---
 
 ## Patent  
 
 - **XZ Fan** and K Breuer. "A bio-inspired flapping wing/fin robotic platform". U.S. Non-Provisional Patent Application No. 18/513,245 and 18/514,625. (Under review) (2024).  
-
----
 
 ## Education  
 
