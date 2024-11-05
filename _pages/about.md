@@ -9,24 +9,23 @@ redirect_from:
 ---
 
 
-<h2> Upstroke wing clapping in bats and bat-inspired robots improves both lift generation and power economy (Under review) </h2>
+<h2> Bio-inspired jet propulsion </h2>
 
-Wing articulation is critical for efficient flight of birds and bats-sized animals. 
-Inspired by the flight of Cynopterus brachyotis, 
-We built a two-degrees-of-freedom flapping wing platform with variable wing fold capability, 
-which also claps its wings to produce air jet for more lift, 
-as its counterpart in nature would do. 
-Independently, We used quasi-steady modeling, 
-force/power measurement and PIV experiment in a wind tunnel to understand the St = 0.2 - 0.4, 
-range of relevance for swimming and flying animals. 
-We found that the both lift, power and its economy all increase with more pronounced wing fold, 
-indicating wing fold is efficient kinematic candidate to consider when more lift ( or payload ) is needed. 
-Moreover, the optimal power economy decreases as St increases,
-suggesting a need to alter the magnitude of wing fold as flight speed changes,
-which provides guideline for future flapping wing robot design.
-In addition, the clap of wings, as a result of large wing fold angles,
-yield a positive lift peak whose magnitude matches with that generated during downstroke,
-without compromising power economy, may prove effective in maneuver or acrobatic flight where an instantaneous force burst is needed.
+Wing articulation is critical for efficient flight of bird- and bat-sized animals. Inspired by the flight of Cynopterus
+brachyotis, the lesser short-nosed fruit bat, we built a three-degree-of-freedom flapping wing platform with variable
+wing folding capability. In late upstroke, the wings ”clap” and produce an air jet that significantly increases lift
+production, with a positive peak matched to that produced in downstroke. We used multiple
+approaches – quasi-steady modeling, direct force/power measurement, and PIV experiments in a wind tunnel –
+to understand critical aspects of lift/power variation in relation to wing folding magnitude over Strouhal numbers
+between 𝑆𝑡 = 0.2 − 0.4. While lift increases monotonically with folding amplitude in that range, power economy
+(ratio of lift/power) is more nuanced. At 𝑆𝑡 = 0.2 − 0.3, it increase with wing folding amplitude monotonically.
+At 𝑆𝑡 = 0.3 − 0.4, it features two maxima – one at medium folding amplitude (∼ 30◦), and the other at maximum
+folding. These findings illuminate two strategies available to flapping wing animals and robots – symmetry-breaking
+lift augmentation and appendage-based jet propulsion.
+(This work is in revision as requested by Journal of Royal Society Interface.)
+
+Subsequently, we found this jet can be directed by controlling the wing twist at the moment of clapping, which leads to greatly enhanced cycle-averaged thrust, especially at high 𝑆𝑡 or low flight speeds. Additional benefits of more thrust and less negative lift are gained during upstroke using wing twist. Remarkably, less total actuating force, or less total power, is required during upstroke with wing twist. These findings emphasize the benefits of critical wing articulation for the future flapping wing/fin robots and for an accurate test platform to study natural flapping wing flight or underwater vehicles.
+(This work is presented at IROS 2024, with the my talk recording below)
 
 <iframe 
         src="https://www.youtube.com/embed/I1HGdiYmNOQ" 
