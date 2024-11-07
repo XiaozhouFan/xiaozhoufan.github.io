@@ -39,6 +39,7 @@ redirect_from:
 - Developed theoretical dynamical models with wing-body interaction, inertial and aerodynamic effects to predict motion of flapping wing flight and energetics.
 - Investigated the energetics of animal flight under different flight speeds, highlighting the impact of wing camber on performance.
 - Designed and fabricated a robotic flapping wing platform to study unsteady aerodynamic phenomena, contributing to efficient, quiet drones with large payload capability.
+- Led and won the Hyundai Visionary Challenge award ($200,000 research fund) on the development of robust bat-inspired aerial robotics.
 
 ### Graduate Research Assistant, High Performance Computational Fluid Dynamics Lab  
 *Jan. 2016 – March 2018*  
