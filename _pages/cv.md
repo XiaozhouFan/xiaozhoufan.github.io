@@ -64,7 +64,7 @@ redirect_from:
 
 ### Peer-Reviewed Journal  
 
-- **XZ Fan**, A Bortoni, S Hao, S Swartz, and K Breuer, "Upstroke wing clapping in bats and bat-inspired robots improves both lift generation and power economy". (In revision) *Journal of The Royal Society Interface* (2024).  
+- **XZ Fan**, A Bortoni, S Hao, S Swartz, and K Breuer, "Upstroke wing clapping in bats and bat-inspired robots offers efficient lift generation". (accepted) *Journal of The Royal Society Interface* (2025).  
 - K Breuer, M Drela, **XZ Fan**, M Luca, "Design and performance of an ultra‑compact, low‑speed, low turbulence wind tunnel for aerodynamic and animal flight experiments". *Experiments in Fluids* (2022).  
 - **XZ Fan**, S Swartz, and K Breuer, "Power Requirements for Flapping Flight With Heavy and Highly Articulated Wings". *Journal of The Royal Society Interface* (2022).  
 - **XZ Fan** and K Breuer, "Low-Order Modeling of Flapping Flight with Highly Articulated, Cambered, Heavy Wings". *AIAA Journal* (2021).  
