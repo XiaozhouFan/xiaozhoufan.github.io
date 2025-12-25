@@ -22,14 +22,14 @@ redirect_from:
 
 ## Research Experience  
 *Sept. 2025 – Now*
-Assistant Professor, Hong Kong University of Science and Technology (Guangzhou)	        	  
-Sustainable Energy and Environment Thrust; 
-https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/FAN-Xiaozhou/xiaozhoufan
+- Assistant Professor, Hong Kong University of Science and Technology (Guangzhou)	        	  
+- Sustainable Energy and Environment Thrust; 
+- Website:https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/FAN-Xiaozhou/xiaozhoufan
 
 ### Postdoctoral Scholar Research Associate, Caltech  
 *Sept. 2023 – Aug. 2025*  
 **Advisor**: Prof. Morteza Gharib ([mgharib@caltech.edu](mailto:mgharib@caltech.edu); [website](https://www.gharib.caltech.edu/))  
-- Project lead: fight autonomy in extreme winds. Designed, fabricated and calibrated an in-house air data system for real-time gust sensing. Reducing piece-wise cost from ~ $10k to $400 (1/25 of commercial pricing).
+- Project lead: fight autonomy in extreme winds. Designed, fabricated and calibrated an in-house air data system for real-time gust sensing. Reducing piece-wise cost from ~ \$10k to \$400 (1/25 of commercial pricing).
 - Instrumented onboard sensing system and avionics for fixed-wing drone; designed and built an automated testing environment to test flight control. Architect a framework to learn the flight mechanics of the drone with data-driven approach.
 - Implemented flight controllers in real-time with dynamically changing gusty environment. 
 - Organizing the bi-weekly AI journal club within group. 
