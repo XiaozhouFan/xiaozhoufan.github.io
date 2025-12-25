@@ -22,7 +22,7 @@ redirect_from:
 
 ## Research Experience  
 *Sept. 2025 – Now*
-- Assistant Professor, Hong Kong University of Science and Technology (Guangzhou)	        	  
+### Assistant Professor, Hong Kong University of Science and Technology (Guangzhou)	        	  
 - Sustainable Energy and Environment Thrust; 
 - Website:https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/FAN-Xiaozhou/xiaozhoufan
 
@@ -86,6 +86,8 @@ redirect_from:
 - H Vejdani, **XZ Fan**, K Breuer, "Robustness analysis of minimally-actuated flapping wing systems due to aerodynamic modeling uncertainty". *IEEE/ASME International Conference on Advanced Intelligent Mechatronics* (AIM) (2022).  
 - **XZ Fan**, K Breuer, H Vejdani, "Wing Fold and Twist Greatly Improves Flight Efficiency for Bat-Scale Flapping Wing Robots." *IEEE/RSJ International Conference on Intelligent Robots and Systems* (IROS) (2021).  
 
+<!--
+
 ### Conference Presentation  
 
 - **XZ Fan**, A Gehrke, A Sollenberger, K Breuer "Wing folding and twisting synergistically boost lift generation for flapping wing flight". *APS DFD* (2023).  
@@ -97,6 +99,8 @@ redirect_from:
 - **XZ Fan**, S Swartz, K Breuer "A reduced order computational model to simulate the dynamics of maneuvering flight". *Integrative and Comparative Biology* (2020).  
 - **XZ Fan**, K Breuer "3D Reduced-order modeling of flapping flight with heavy and highly articulated wings". *APS DFD* (2020).  
 - **XZ Fan**, P Windes, DK Tafti, S Sekhar, M Bender, A Kurdila, R Muller "Proper orthogonal decomposition and aerodynamic simulation of an insectivorous bat in straight and level flight". *AIAA SciTech Forum* (2018).
+
+-->
 
 ## Patent  
 
@@ -157,9 +161,11 @@ redirect_from:
 
 ---
 
+<!--
 ## Academic Services  
 
 - **2024**: Co-guest editor for special issue of peer-reviewed journal *Machines*  
 - **2022 – 2024**: Reviewer for journals: *PNAS, Science Robotics, Physics Review Fluids, Cell iScience, Integrative and Comparative Biology, Flow, Turbulence and Combustion*  
   Reviewer for international conferences: *IROS, ICRA*
 
+-->
