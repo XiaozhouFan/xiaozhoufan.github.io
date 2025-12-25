@@ -18,7 +18,6 @@ redirect_from:
 - **Website**: [https://xiaozhoufan.github.io/](https://xiaozhoufan.github.io/)  
 <!-- **Phone**: +1 401-323-7418  -->
 
-
 ---
 
 ## Research Experience  
@@ -79,10 +78,7 @@ https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/FAN-Xiaozhou/xiaoz
 - M Bender, L Tian, **XZ Fan**, A Kurdila, R Muller, "Spatially Recursive Estimation and Gaussian Process Dynamic Models of Bat Flapping Flight". *Nonlinear Dynamics* (2019).  
 - P Windes, **XZ Fan**, M Bender, DK Tafti, R Müller, "A computational investigation of lift generation and power expenditure of Pratt’s roundleaf bat (Hipposideros pratti) in forward flight". *PLOS One* (2018).  
 
-### Journals in Preparation  
-
-- **XZ Fan**\*, FZ Xie\*, J Humml, YS Yue, Morteza Gharib, "Bio-inspired flow sensing and AI-based flight control under extreme winds". \*Equal contribution. (2024).  
-
+<!-- - **XZ Fan**\*, FZ Xie\*, J Humml, YS Yue, Morteza Gharib, "Bio-inspired flow sensing and AI-based flight control under extreme winds". \*Equal contribution. (2024).  -->
 
 ### Peer-Reviewed Conference Proceedings  
 
@@ -104,7 +100,7 @@ https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/FAN-Xiaozhou/xiaoz
 
 ## Patent  
 
-- **XZ Fan** and K Breuer. "A bio-inspired flapping wing/fin robotic platform". U.S. Non-Provisional Patent Application No. 18/513,245 and 18/514,625. (Under review) (2024).  
+- **XZ Fan** and K Breuer. "A bio-inspired flapping wing/fin robotic platform". U.S. Patent Application No. 12,441,468 (2025).  
 
 ---
 
