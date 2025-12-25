@@ -16,7 +16,7 @@ redirect_from:
 
 - **Email**: [xzfan@caltech.edu](mailto:xzfan@caltech.edu)  
 - **Website**: [https://xiaozhoufan.github.io/](https://xiaozhoufan.github.io/)  
-- **Phone**: +1 401-323-7418  
+--- **Phone**: +1 401-323-7418  ---
 
 ---
 
