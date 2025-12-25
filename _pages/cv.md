@@ -14,7 +14,7 @@ redirect_from:
 # Xiaozhou (Michael) Fan  
 **Mechanical/Aerospace Engineering**  
 
-- **Email**: [xzfan@caltech.edu](mailto:xzfan@caltech.edu)  
+- **Email**: [xiaozhoufan@hkust-gz.edu.cn](mailto:xiaozhoufan@hkust-gz.edu.cn)  
 - **Website**: [https://xiaozhoufan.github.io/](https://xiaozhoufan.github.io/)  
 <!-- **Phone**: +1 401-323-7418  -->
 
@@ -22,12 +22,19 @@ redirect_from:
 ---
 
 ## Research Experience  
+*Sept. 2025 – Now*
+Assistant Professor, Hong Kong University of Science and Technology (Guangzhou)	        	  
+Sustainable Energy and Environment Thrust; 
+https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/FAN-Xiaozhou/xiaozhoufan
 
 ### Postdoctoral Scholar Research Associate, Caltech  
-*Sept. 2023 – Present*  
+*Sept. 2023 – Aug. 2025*  
 **Advisor**: Prof. Morteza Gharib ([mgharib@caltech.edu](mailto:mgharib@caltech.edu); [website](https://www.gharib.caltech.edu/))  
-- Sparse and dynamic flow sensing and flight control using reinforcement learning, aiming to develop safer and more robust fixed-wing drones in extreme wind gusts.
-- Organizing bi-weekly AI journal club.
+•	Project lead: fight autonomy in extreme winds.
+•	Designed, fabricated and calibrated an in-house air data system for real-time gust sensing. Reducing piece-wise cost from ~ $10k to $400 (1/25 of commercial pricing).
+•	Instrumented onboard sensing system and avionics for fixed-wing drone; designed and built an automated testing environment to test flight control. Architect a framework to learn the flight mechanics of the drone with data-driven approach.
+•	Implemented flight controllers in real-time with dynamically changing gusty environment. 
+•	Organizing the bi-weekly AI journal club within group. 
 
 ### Fellow, Brown Technology Innovations  
 *Aug. 2022 – Aug. 2023*  
@@ -58,14 +65,14 @@ redirect_from:
 **Advisor**: Prof. Xianmin Zhang (zhangxm@scut.edu.cn)  
 - Designed a flapping wing mechanism mimicking bird or bat wing folding during upstroke, completed its mathematical modeling and preliminary efficiency analysis.
 
-
 ---
 
 ## Publications  
 
 ### Peer-Reviewed Journal  
 
-- **XZ Fan**, A Bortoni, S Hao, S Swartz, and K Breuer, "Upstroke wing clapping in bats and bat-inspired robots offers efficient lift generation". (accepted) *Journal of The Royal Society Interface* (2025).  
+- YX Su\*, **XZ Fan**\*, K Onoue, H Vejdani, K Breuer, "An Improved Aerodynamic Model for Quasi-Steady Simulations of Animal Flight at Moderate Reynolds Numbers". \*Equal contribution. *Annals of the New York Academy of Sciences* (2025).  
+- **XZ Fan**, A Bortoni, S Hao, S Swartz, and K Breuer, "Upstroke wing clapping in bats and bat-inspired robots offers efficient lift generation". *Journal of The Royal Society Interface* (2025).  
 - K Breuer, M Drela, **XZ Fan**, M Luca, "Design and performance of an ultra‑compact, low‑speed, low turbulence wind tunnel for aerodynamic and animal flight experiments". *Experiments in Fluids* (2022).  
 - **XZ Fan**, S Swartz, and K Breuer, "Power Requirements for Flapping Flight With Heavy and Highly Articulated Wings". *Journal of The Royal Society Interface* (2022).  
 - **XZ Fan** and K Breuer, "Low-Order Modeling of Flapping Flight with Highly Articulated, Cambered, Heavy Wings". *AIAA Journal* (2021).  
@@ -76,7 +83,7 @@ redirect_from:
 ### Journals in Preparation  
 
 - **XZ Fan**\*, FZ Xie\*, J Humml, YS Yue, Morteza Gharib, "Bio-inspired flow sensing and AI-based flight control under extreme winds". \*Equal contribution. (2024).  
-- YX Su\*, **XZ Fan**\*, K Onoue, H Vejdani, K Breuer, "An improved paradigm for modeling animal flights at moderate Reynolds numbers". \*Equal contribution. (2024).  
+
 
 ### Peer-Reviewed Conference Proceedings  
 
