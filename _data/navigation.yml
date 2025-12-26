@@ -18,5 +18,5 @@ main:
   #- title: "Guide"
   #  url: /markdown/
     
-  - title: "About me"
-    url: /portfolio/
+  # title: "About me"
+  # url: /portfolio/
