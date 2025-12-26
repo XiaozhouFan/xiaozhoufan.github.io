@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Some cool projects over the years! "
+title: "Welcome to join XFAN lab at HKUST(GZ) "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
