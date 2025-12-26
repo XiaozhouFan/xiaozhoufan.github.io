@@ -24,7 +24,7 @@ redirect_from:
 *Sept. 2025 – Now*
 ### Assistant Professor, Hong Kong University of Science and Technology (Guangzhou)	        	  
 - Sustainable Energy and Environment Thrust; 
-- Website:https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/FAN-Xiaozhou/xiaozhoufan
+- Website: https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/FAN-Xiaozhou/xiaozhoufan
 
 ### Postdoctoral Scholar Research Associate, Caltech  
 *Sept. 2023 – Aug. 2025*  
