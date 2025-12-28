@@ -1,17 +1,18 @@
 ---
 permalink: /
-title: "Welcome to join XFAN lab at HKUST(GZ) "
+title: "Welcome to XFAN lab at HKUST(GZ) "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<h2> Where are my wings? </h2>
+<h2> My friend, have you ever wondered why ... 小朋友，你是否有很多问号 </h2>
 
-The Wright brothers dawned the aviation age from keen observation of bird flight. Now in 2024, five decades after the moon landing, with interplanetary travel on the horizon, there is still no aerial robots that remotely compete with birds or bats. The irony of rocket science outpacing the seemingly simpler science of animal flight casts an unsatisfying shadow over the progress we have made.
+The Wright brothers dawned the aviation age from keen observation of bird flight. Now in 2026, five decades after the moon landing, with interplanetary travel on the horizon, there is still no aerial robots that remotely compete with birds or bats. The irony of rocket science outpacing the seemingly simpler science of animal flight casts an unsatisfying shadow over the progress we have made.
 The reality is that birds and bats have deceived us all by their effortless grace, as bio-inspired mimicry and mechanics are highly interdisciplinary and challenging studies. It demands a fundamental understanding of unsteady aerodynamics, robust robotic design and flight control, and the appreciation towards reduced-order modeling for nonlinear dynamics, which lends itself to data-driven approaches. To make matter more complicated, all these efforts are deeply coupled, and need to weave together to create faithful bio-inspired, autonomous robots. 
 
+你是否曾经思考过这个问题：一百多年前，莱特兄弟正是通过对鸟类飞行的观察，才开启了人类的航空时代。然而今天已是2026年--我们已然处在登月的半个世纪之后，连星际探索都已隐隐绰绰地在地平线浮现--但环绕在我们身边的小型无人机，却仍然以旋翼机居多，其次是固定翼飞行器，而未曾见到能直接在商场里买到就能爽飞的仿生扑翼飞行器。英语里，有一个词叫，火箭科学(Rocket Science)，常被人用来比喻艰难晦涩的学科，对于火箭的认识却是获得突飞猛进，反而超越了看似简单的仿生飞行空气动力学的发展，常常让人不禁好奇个中缘由。其实，鸟类和蝙蝠以那种不费吹灰之力的优雅飞行姿态，欺骗了我们所有人。针对仿生飞行动力学的研究看似直观，实则是一门高度交叉的学科：它要求我们深入理解非定常空气动力学(Unsteady aerodynamics)，具备对机器人硬件设计的经验并掌握飞行器控制原理(Flight Mechanics)，并能抽丝剥茧，通过降阶建模(Reduced-order modeling)，抓住其中非线性动力学的本质；在如今人工智能的背景下，数据驱动方法(Data-driven approaches)也开始登上舞台，发挥重要作用。更为棘手的是，这些环节并非彼此独立，而是紧密耦合、相互交织，而唯有将它们融会贯通，才能真正创造出真正能与旋翼机竞争的仿生飞行机器人。
 
 <h2> Bio-inspired jet propulsion </h2>
 
