@@ -41,7 +41,7 @@ lift augmentation and appendage-based jet propulsion.
 <p>
   Video available on:
   <a href="https://www.youtube.com/watch?v=I1HGdiYmNOQ" target="_blank">YouTube</a> |
-  <a href="bilibili.com/video/BV1obvkBKE2P/" target="_blank">Bilibili</a>
+  <a href='//player.bilibili.com/player.html?bvid=BV1obvkBKE2P&cid=35038822590&p=1&share_source=copy_web' target="_blank">Bilibili</a>
 </p>
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
@@ -56,13 +56,12 @@ lift augmentation and appendage-based jet propulsion.
 
   <!-- Bilibili -->
   <iframe width="480" height="270"
-    src="bilibili.com/video/BV1obvkBKE2P/"
+    src='//player.bilibili.com/player.html?bvid=BV1obvkBKE2P&cid=35038822590&p=1&share_source=copy_web'
     title="Flapparoo Visualization (Bilibili)"
     frameborder="0"
     allowfullscreen>
   </iframe>
 </div>
-
 
 <!-- <iframe 
         src="https://www.youtube.com/embed/I1HGdiYmNOQ" 
