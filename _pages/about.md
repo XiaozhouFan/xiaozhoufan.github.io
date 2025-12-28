@@ -41,6 +41,33 @@ lift augmentation and appendage-based jet propulsion.
 <p>
   Video available on:
   <a href="https://www.youtube.com/watch?v=I1HGdiYmNOQ" target="_blank">YouTube</a> |
+  <a href='//player.bilibili.com/player.html?isOutside=true&aid=115797267580313&bvid=BV1obvkBKE2P&cid=35038822590&p=1' target="_blank">Bilibili</a>
+</p>
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <!-- YouTube -->
+  <iframe width="480" height="270"
+    src="https://www.youtube.com/embed/I1HGdiYmNOQ"
+    title="Flapparoo Visualization (YouTube)"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+  <!-- Bilibili -->
+  <iframe width="480" height="270"
+    src='//player.bilibili.com/player.html?isOutside=true&aid=115797267580313&bvid=BV1obvkBKE2P&cid=35038822590&p=1'
+    title="Flapparoo Visualization (Bilibili)"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+Subsequently, we found this jet can be directed by controlling the wing twist at the moment of clapping, which leads to greatly enhanced cycle-averaged thrust, especially at high 𝑆𝑡 or low flight speeds. Additional benefits of more thrust and less negative lift are gained during upstroke using wing twist. Remarkably, less total actuating force, or less total power, is required during upstroke with wing twist. These findings emphasize the benefits of critical wing articulation for the future flapping wing/fin robots and for an accurate test platform to study natural flapping wing flight or underwater vehicles.
+(This work is presented at IROS 2024. Full paper available in Publications section)
+
+<p>
+  Video available on:
+  <a href="https://www.youtube.com/watch?v=I1HGdiYmNOQ" target="_blank">YouTube</a> |
   <a href='//player.bilibili.com/player.html?isOutside=true&aid=115797418641170&bvid=BV14MvkBDE26&cid=35039413662&p=1' target="_blank">Bilibili</a>
 </p>
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
@@ -61,18 +88,12 @@ lift augmentation and appendage-based jet propulsion.
   </iframe>
 </div>
 
-
-Subsequently, we found this jet can be directed by controlling the wing twist at the moment of clapping, which leads to greatly enhanced cycle-averaged thrust, especially at high 𝑆𝑡 or low flight speeds. Additional benefits of more thrust and less negative lift are gained during upstroke using wing twist. Remarkably, less total actuating force, or less total power, is required during upstroke with wing twist. These findings emphasize the benefits of critical wing articulation for the future flapping wing/fin robots and for an accurate test platform to study natural flapping wing flight or underwater vehicles.
-(This work is presented at IROS 2024, with the my talk recording below. Full paper available in Publications section)
-
-<iframe src="https://www.youtube.com/embed/kts0CTea0kM?si=HP1NF9UalNNsIG3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe 
+<!-- <iframe 
         src="https://www.youtube.com/embed/MIdfsCfT98Y?si=Sw4RMePMmbL9MeDi" 
         title="IROS 2024 talk -- bio-inspired jet propulsion" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
         allowfullscreen>
-</iframe>
+</iframe> -->
 
 <h2>Flapping wing robot Kestrel </h2>
 
