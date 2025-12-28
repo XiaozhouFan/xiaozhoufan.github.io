@@ -36,7 +36,7 @@ between 𝑆𝑡 = 0.2 − 0.4. While lift increases monotonically with folding 
 At 𝑆𝑡 = 0.3 − 0.4, it features two maxima – one at medium folding amplitude (∼ 30◦), and the other at maximum
 folding. These findings illuminate two strategies available to flapping wing animals and robots – symmetry-breaking
 lift augmentation and appendage-based jet propulsion.
-(This work is in revision as requested by Journal of Royal Society Interface, arXiv link: http://arxiv.org/abs/2411.01434)
+(This work is published on 2025 by Journal of Royal Society Interface, full paper available in Publications section)
 <iframe 
         src="https://www.youtube.com/embed/I1HGdiYmNOQ" 
         title="Flapparoo Visualization" frameborder="0" 
@@ -45,7 +45,7 @@ lift augmentation and appendage-based jet propulsion.
 </iframe>
 
 Subsequently, we found this jet can be directed by controlling the wing twist at the moment of clapping, which leads to greatly enhanced cycle-averaged thrust, especially at high 𝑆𝑡 or low flight speeds. Additional benefits of more thrust and less negative lift are gained during upstroke using wing twist. Remarkably, less total actuating force, or less total power, is required during upstroke with wing twist. These findings emphasize the benefits of critical wing articulation for the future flapping wing/fin robots and for an accurate test platform to study natural flapping wing flight or underwater vehicles.
-(This work is presented at IROS 2024, with the my talk recording below. The arXiv link: https://www.arxiv.org/abs/2408.15577)
+(This work is presented at IROS 2024, with the my talk recording below. Full paper available in Publications section)
 
 <iframe src="https://www.youtube.com/embed/kts0CTea0kM?si=HP1NF9UalNNsIG3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -88,7 +88,7 @@ Towards the end of the video, the carbon rod snapped from the shoulder joint, po
 <h2> Computational fluid dynamics on flapping flight </h2>
 
 The kinematics of hipposiderid bats (Hipposideros pratti) in straight and level flight has been deconstructed into a series of modes using proper orthogonal decomposition, to determine the relative importance of each mode in the overall force dynamics.
-
+Papers available in Publications Section
 
 <iframe 
         src="https://www.youtube.com/embed/iJbCfhohoUc" 
@@ -97,11 +97,19 @@ The kinematics of hipposiderid bats (Hipposideros pratti) in straight and level 
         allowfullscreen>
 </iframe>
 
+<h2> Collaborate or simply wanna know more? ... 有事没事儿，发个邮件唠唠！ </h2>
 
+在港科大广州校区，我的实验室XFAN希望通过对基础飞行动力学的研究，来突破仿生飞行器发展的瓶颈。方向包括：1）仿生飞行器的非定常空气动力学机理探究；2）数据驱动的高保真降阶动力学模型；3）强阵风的感知及飞行控制算法。
+我的团队从大自然中汲取灵感，但并不满足于简单的模仿。联系我的邮箱是：xiaozhoufan@hkust-gz.edu.cn
 
+At the Hong Kong University of Science and Technology (Guangzhou), the XFAN Lab aims to overcome key bottlenecks in the development of bio-inspired aerial vehicles through fundamental research in flight dynamics. Our research focuses on:
 
+Investigating the unsteady aerodynamic mechanisms of bio-inspired flying vehicles;
+Developing data-driven, high-fidelity reduced-order dynamic models;
+Designing sensing and flight control algorithms for operation in strong gust environments.
 
-
+Inspired by nature, our team goes beyond mere imitation, striving instead to uncover the underlying physical principles and translate them into generalizable and engineering-ready flight theories and technologies.
+For inquiries or collaboration, please contact: xiaozhoufan@hkust-gz.edu.cn
 
 <!----
 
