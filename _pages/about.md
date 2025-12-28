@@ -109,20 +109,28 @@ It started to ascend, albeit slowly.
 Then, I steered it to the right by controling the tail surface to roll to right. 
 Towards the end of the video, the carbon rod snapped from the shoulder joint, potentially due to siginificant shear force at the base of the wing root.
 
-<iframe       
-        src="https://www.youtube.com/embed/NRsVKKc83Hs" 
-        title="Kestrel test flight" 
-        frameborder="0" 
-        allow="accelerometer;  
-               autoplay; 
-               clipboard-write; 
-               encrypted-media; 
-               gyroscope; 
-               picture-in-picture" 
-        allowfullscreen>
-</iframe>
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115797519238544&bvid=BV1MNvkBXEYA&cid=35040201982&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<p>
+  Video available on:
+  <a href="https://www.youtube.com/embed/NRsVKKc83Hs" target="_blank">YouTube</a> |
+  <a href='//player.bilibili.com/player.html?isOutside=true&aid=115797519238544&bvid=BV1MNvkBXEYA&cid=35040201982&p=1' target="_blank">Bilibili</a>
+</p>
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <!-- YouTube -->
+  <iframe width="480" height="270"
+    src="https://www.youtube.com/embed/NRsVKKc83Hs"
+    title="Flapparoo Visualization (YouTube)"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+  <!-- Bilibili -->
+  <iframe width="480" height="270"
+    src='//player.bilibili.com/player.html?isOutside=true&aid=115797519238544&bvid=BV1MNvkBXEYA&cid=35040201982&p=1'
+    title="Flapparoo Visualization (Bilibili)"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 <h2> Computational fluid dynamics on flapping flight </h2>
