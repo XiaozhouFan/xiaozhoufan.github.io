@@ -7,6 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<h2> What's popping? ... 最近忙啥呢 </h2>
+
+Bio-inspired flapping wing aerial vehicles imitate the flight of birds or insects by generating lift and thrust through periodic wing flapping. Compared with fixed-wing or rotary-wing aircraft, they are lightweight, low-noise, highly maneuverable, and capable of dynamic wing deformation, enabling agile flight in complex environments. Beyond conventional tasks such as transport and inspection, they also hold potential for applications like agricultural pollination and even visually engaging aerial competitive sports in three-dimensional airspace, which could drive major technological and industrial advances.
+
+扑翼仿生飞行器是一种模仿鸟类或昆虫等生物飞行方式的飞行装置，其核心在于通过机翼的周期性上下拍动来产生升力和推力，从而实现飞行。 这种飞行方式与传统固定翼或旋翼飞行器相比，具有体积小、重量轻、隐蔽性好、机动性强、能耗低等优点。与传统固定翼飞行器或旋翼飞行器相比，仿生扑翼飞行器能够动态变形翅膀，进而实现急转、悬停等复杂动作，在复杂地形上拥有更高机动性（如丛林/城市等）；且其在飞行过程中所产生的噪音小于传统固定翼或旋翼飞行器，在隐蔽性上有更为优异的表现，因此在未来拥有更加广泛的应用场景。或凭借质量轻与灵活的优势，参与农业授粉，降低物种灭绝的风险与影响。除运载、巡检、测绘等“刚需”场景外，我们或许可以提出一个更具大众影响力与产业带动性的方向：可观赏性的空中竞技体育。设想“三维篮球/足球”等国际赛事——在三维空域内布设立体球门/篮筐，各国国家队以低噪安全飞行器开展攻防对抗。 该方向对安全、低噪、抗风与对抗控制提出更高标准，反过来将显著拉动核心技术的突破与产业化。 届时，我们迎来的将不仅是技术的竞逐，更是一场在三维空间中书写未来的全新篇章。
+
 <h2> My friend, have you ever wondered why ... 小朋友，你是否有很多问号 </h2>
 
 The Wright brothers dawned the aviation age from keen observation of bird flight. Now in 2026, five decades after the moon landing, with interplanetary travel on the horizon, there is still no aerial robots that remotely compete with birds or bats. The irony of rocket science outpacing the seemingly simpler science of animal flight casts an unsatisfying shadow over the progress we have made.
