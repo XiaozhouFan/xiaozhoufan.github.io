@@ -18,7 +18,7 @@ Of course, bio-inspiration should extend beyond merely mimicking animals; it sho
 
 更多详细的图文中文介绍，请参见港科大（广州校区）可持续发展与环境学域的黎禹昕老师制作的精美科普文章[《人类飞行简史》](https://mp.weixin.qq.com/s/6YfPHsg2ABFJavxN96uXHw)
 
-<h2> My friend, have you ever wondered why ... 小朋友，你是否有很多问号 </h2>
+<h2> My friend, have you ever wondered why ... 朋友，你是否有很多问号 </h2>
 
 The Wright brothers dawned the aviation age from keen observation of bird flight. Now in 2026, five decades after the moon landing, with interplanetary travel on the horizon, there is still no aerial robots that remotely compete with birds or bats. The irony of rocket science outpacing the seemingly simpler science of animal flight casts an unsatisfying shadow over the progress we have made.
 The reality is that birds and bats have deceived us all by their effortless grace, as bio-inspired mimicry and mechanics are highly interdisciplinary and challenging studies. It demands a fundamental understanding of unsteady aerodynamics, robust robotic design and flight control, and the appreciation towards reduced-order modeling for nonlinear dynamics, which lends itself to data-driven approaches. To make matter more complicated, all these efforts are deeply coupled, and need to weave together to create faithful bio-inspired, autonomous robots. 
