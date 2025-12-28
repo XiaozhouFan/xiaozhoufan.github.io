@@ -37,12 +37,40 @@ At 𝑆𝑡 = 0.3 − 0.4, it features two maxima – one at medium folding ampl
 folding. These findings illuminate two strategies available to flapping wing animals and robots – symmetry-breaking
 lift augmentation and appendage-based jet propulsion.
 (This work is published on 2025 by Journal of Royal Society Interface, full paper available in Publications section)
-<iframe 
+
+<p>
+  Video available on:
+  <a href="https://www.youtube.com/watch?v=I1HGdiYmNOQ" target="_blank">YouTube</a> |
+  <a href="bilibili.com/video/BV1obvkBKE2P/" target="_blank">Bilibili</a>
+</p>
+
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <!-- YouTube -->
+  <iframe width="480" height="270"
+    src="https://www.youtube.com/embed/I1HGdiYmNOQ"
+    title="Flapparoo Visualization (YouTube)"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+
+  <!-- Bilibili -->
+  <iframe width="480" height="270"
+    src="bilibili.com/video/BV1obvkBKE2P/"
+    title="Flapparoo Visualization (Bilibili)"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+<!-- <iframe 
         src="https://www.youtube.com/embed/I1HGdiYmNOQ" 
         title="Flapparoo Visualization" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen>
-</iframe>
+</iframe> -->
+
 
 Subsequently, we found this jet can be directed by controlling the wing twist at the moment of clapping, which leads to greatly enhanced cycle-averaged thrust, especially at high 𝑆𝑡 or low flight speeds. Additional benefits of more thrust and less negative lift are gained during upstroke using wing twist. Remarkably, less total actuating force, or less total power, is required during upstroke with wing twist. These findings emphasize the benefits of critical wing articulation for the future flapping wing/fin robots and for an accurate test platform to study natural flapping wing flight or underwater vehicles.
 (This work is presented at IROS 2024, with the my talk recording below. Full paper available in Publications section)
