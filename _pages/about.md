@@ -65,16 +65,15 @@ lift augmentation and appendage-based jet propulsion.
 Subsequently, we found this jet can be directed by controlling the wing twist at the moment of clapping, which leads to greatly enhanced cycle-averaged thrust, especially at high 𝑆𝑡 or low flight speeds. Additional benefits of more thrust and less negative lift are gained during upstroke using wing twist. Remarkably, less total actuating force, or less total power, is required during upstroke with wing twist. These findings emphasize the benefits of critical wing articulation for the future flapping wing/fin robots and for an accurate test platform to study natural flapping wing flight or underwater vehicles.
 (This work is presented at IROS 2024. Full paper available in Publications section)
 
-
 <p>
   Video available on:
-  <a href="https://www.youtube.com/embed/MIdfsCfT98Y?si=Sw4RMePMmbL9MeDi" target="_blank">YouTube</a> |
+  <a href="https://www.youtube.com/embed/kts0CTea0kM?si=XfxV3fuzysBNtU6j" target="_blank">YouTube</a> |
   <a href='//player.bilibili.com/player.html?isOutside=true&aid=115797267580313&bvid=BV1obvkBKE2P&cid=35038822590&p=1' target="_blank">Bilibili</a>
 </p>
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
   <!-- YouTube -->
   <iframe width="480" height="270"
-    src="https://www.youtube.com/embed/MIdfsCfT98Y?si=Sw4RMePMmbL9MeDi"
+    src="https://www.youtube.com/embed/kts0CTea0kM?si=XfxV3fuzysBNtU6j"
     title="Flapparoo Visualization (YouTube)"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -122,6 +121,8 @@ Towards the end of the video, the carbon rod snapped from the shoulder joint, po
                picture-in-picture" 
         allowfullscreen>
 </iframe>
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115797519238544&bvid=BV1MNvkBXEYA&cid=35040201982&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 <h2> Computational fluid dynamics on flapping flight </h2>
