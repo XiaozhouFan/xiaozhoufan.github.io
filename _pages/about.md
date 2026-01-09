@@ -100,7 +100,7 @@ Subsequently, we found this jet can be directed by controlling the wing twist at
 <h2>Flapping wing robot Kestrel </h2>
 
 The plan of the ornithopter, called kestrel, was first patented by an American inventor called Andrew Kinkade, in the 2001. 
-I built it as a hobby.
+Along with a dear friend of mine, Zhilin Zhang, we built it as a hobby.
 It weighs around 430 grams, and mounts a BLDC motor that drives the wing flapping up and down via a four-bar linkage mechanism.
 There are two servos that controls the tail to pitch and roll
 
